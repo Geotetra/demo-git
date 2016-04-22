@@ -4,6 +4,6 @@ using namespace std;
 
 int main(void)
 {
-  cout << "Prout" << endl;
+  cout << "Prout Prout" << endl;
   return(0);
 }
