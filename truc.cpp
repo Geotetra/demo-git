@@ -8,6 +8,6 @@ int main(void)
 
   cout << "Modifié depuis GitHub" << endl;
 
-  cout << "Maintenat depuis la machine !"
+  cout << "Maintenat depuis la machine !" << endl;
   return(0);
 }
